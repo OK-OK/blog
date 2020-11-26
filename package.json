@@ -1,11 +1,11 @@
 {
-  "name": "afternoon-grocery-store",
+  "name": "JL_Guan-blog",
   "version": "1.0.0",
-  "description": "recoluan's blog",
-  "main": "index.js",
-  "repository": "http://recoluan.gitlab.io",
-  "author": "reco_luan",
+  "description": "JL_Guan's blog",
+  "repository": "https://ok-ok.gitlab.io",
+  "author": "JL_Guan",
   "license": "MIT",
+  "main": "./public/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vuepress dev docs",
