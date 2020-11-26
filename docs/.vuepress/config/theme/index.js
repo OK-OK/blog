@@ -11,4 +11,5 @@ module.exports = Object.assign({}, themeReco, {
   searchMaxSuggestions: 10,
   // 自动形成侧边导航
   sidebar: 'auto',
+  pathUrl: 'https://ok-ok.github.io/blog/'
 })
