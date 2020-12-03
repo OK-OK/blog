@@ -2,7 +2,7 @@
   "name": "JL_Guan-blog",
   "version": "1.0.0",
   "description": "JL_Guan's blog",
-  "repository": "https://ok-ok.gitlab.io",
+  "repository": "https://github.com/OK-OK/blog",
   "author": "JL_Guan",
   "license": "MIT",
   "main": "./public/index.html",
