@@ -19,4 +19,5 @@ module.exports = {
     record: '京ICP备17067634号-1',
     // 项目开始时间
     startYear: '2020',
+    authorAvatar: '/head.png',
 }
